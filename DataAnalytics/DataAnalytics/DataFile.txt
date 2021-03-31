@@ -1,0 +1,2 @@
+1.1235 8.1321 Marx false
+34.5589 144.233 Lenin true
