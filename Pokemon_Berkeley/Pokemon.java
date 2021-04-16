@@ -2,6 +2,7 @@ package class0225;
 
 //import java.util.Arrays;
 
+
 public class Pokemon implements Comparable<Pokemon>{
 
   private String name;
@@ -13,7 +14,7 @@ public class Pokemon implements Comparable<Pokemon>{
 	  this.pokeIndex = index;
 	  this.generation = generation;
   }
-  
+  //Kyle's comment
   public Pokemon() {
 	  this.name = "";
 	  this.pokeIndex = 0; 
